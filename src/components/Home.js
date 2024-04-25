@@ -65,6 +65,11 @@ class Home extends React.Component {
             </div>
           </div>
         </div>
+
+        <chat-widget
+          location-id="7viCqer7NJXuGjCIKZcf">
+        </chat-widget>
+
         <div className="services section" id="services">
           <div className="container">
             <div className="row">
